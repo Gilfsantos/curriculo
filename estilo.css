@@ -1,0 +1,24 @@
+body {
+background-color: rgb(207, 212, 212);
+margin: 10px;
+}
+div {
+    margin: 5px;
+
+}
+h1  {
+    
+    font-size: 13px;
+    
+
+    
+
+}
+h2 {
+    font-size: 30px;
+}
+
+
+p {
+    padding: 10px;
+}
